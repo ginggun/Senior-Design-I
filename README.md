@@ -23,7 +23,7 @@ The following components are currently under evaluation:
 
 | Component | Purpose |
 |---|---|
-| NVIDIA Jetson Orin Nano / Orin Nano Super | Edge AI processing and computer vision |
+| Raspberry Pi 5 (8GB) | Edge AI processing and computer vision |
 | Depth Camera | Depth estimation and visual object detection |
 | LiDAR / Radar | Obstacle detection and distance measurement |
 | GPS Module | Location tracking and navigation |
